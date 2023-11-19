@@ -1,0 +1,10 @@
+com.baharmand.marketplaceapi
+com.baharmand.marketplaceapi.config
+com.baharmand.marketplaceapi.controller
+com.baharmand.marketplaceapi.converter
+com.baharmand.marketplaceapi.domain.dto
+com.baharmand.marketplaceapi.domain.entity
+com.baharmand.marketplaceapi.exception
+com.baharmand.marketplaceapi.repository
+com.baharmand.marketplaceapi.service
+com.baharmand.marketplaceapi.util
